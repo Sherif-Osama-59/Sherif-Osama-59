@@ -1,5 +1,13 @@
 # 💫 About Me:
-.
+⚡ Electromechanical Engineer | Bridging hardware and software development.
+
+💻 Full Stack Developer | Engineering elegant solutions from design to deployment.
+
+🧠 Enthusiast of Emerging Technologies | Machine Learning and Generative AI.
+
+📈 Growth-minded Engineer. I manage, design, and implement systems.
+
+🌟 Web Development Magician | Engaging in modern front-end technologies.
 
 
 # 💻 Tech Stack:
